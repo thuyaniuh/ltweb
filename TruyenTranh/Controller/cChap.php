@@ -60,7 +60,7 @@ class cChap
                     } else {
                         return 0;
                     }
-                } else {
+                } else { 
                     return -1;
                 }
             } else {
@@ -69,6 +69,7 @@ class cChap
         } else {
             return -3;
         }
+        //test edit github
     }
     function getPrice($max)
     {
